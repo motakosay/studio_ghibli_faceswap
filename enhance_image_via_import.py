@@ -191,4 +191,4 @@ def enhance_image(input_image_path, output_dir):
         return None
 
 if __name__ == '__main__':
-    enhance_image('path/to/input_image.png', 'path/to/output_dir')
+    enhance_image('/content/studio_ghibli_faceswap/incoming_images/male/edit_enhanced1.jpg', '/content/studio_ghibli_faceswap/incoming_images/male/edit_enhanced.jpg')
